@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='cbaobhppbeheiidkfcolgoblpjoiapmm'>
-    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@main/anime-blocker.crx' version='1.11' />
+    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@af556f4379d4b5b31bd350fa4a5b6e41279a9719/anime-blocker.crx' version='1.11' />
   </app>
   <app appid='fejilokiifnionaioemljbjdcjfaaclg'>
-    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@main/youtube-blocker.crx' version='1.9' />
+    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@af556f4379d4b5b31bd350fa4a5b6e41279a9719/youtube-blocker.crx' version='1.9' />
   </app>
   <app appid='ikdliebimdlglpkmlmbakglliphgnfdo'>
-    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@main/youtube-filter.crx' version='1.9' />
+    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@af556f4379d4b5b31bd350fa4a5b6e41279a9719/youtube-filter.crx' version='1.9' />
   </app>
   <app appid='khcnlpaefajdnhocgheilkholoihgbho'>
-    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@main/web-filter.crx' version='1.13' />
+    <updatecheck codebase='https://cdn.jsdelivr.net/gh/ahprv322-alt/ext-updates@af556f4379d4b5b31bd350fa4a5b6e41279a9719/web-filter.crx' version='1.13' />
   </app>
 </gupdate>
